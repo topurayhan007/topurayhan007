@@ -48,9 +48,11 @@
 
 
 ## Github Stats  
-| | |
-|:-------------------------:|:-------------------------:|
-|<img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&count_private=true&hide_border=true" align="center" width="100%" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center"  width="100%" />|
+<div align="center">
+  |:-------------------------:|:-------------------------:|
+  |<img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&count_private=true&hide_border=true" align="center" width="100%" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center"  width="100%" />|
+
+</div>
 
 
 
