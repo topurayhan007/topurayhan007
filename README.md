@@ -48,12 +48,18 @@
 
 
 ## Github Stats  
-<div style="display:flex" align="left">
-  <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table> 
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+    </td>
+    
+    <td valign="top" width="33%">
+      <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center" /></div> 
+    </td>
+  </tr>
+</table>  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center" /></div>  
-
-</div>
 
 
 <div align="center">
