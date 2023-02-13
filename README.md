@@ -55,7 +55,7 @@
     </td>
     
     <td valign="top" width="50%">
-      <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center" /></div> 
+      <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center" /></div> 
     </td>
   </tr>
 </table>  
