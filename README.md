@@ -47,19 +47,14 @@
 </td></tr></table>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&count_private=true&hide_border=true" align="center" width="100%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center"  width="100%" />
+## Github Stats
 | | |
   |:-------------------------:|:-------------------------:|
   |<img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&count_private=true&hide_border=true" align="center" width="100%" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center"  width="100%" />|
 
-
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=topurayhan007&&style=flat-square" align="center" />
 </div> 
-
 
 ## Connect with me  
 <div align="center">
@@ -79,15 +74,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-
-
- 
-  
- 
 
 <div align="center"></div>
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
