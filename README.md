@@ -57,6 +57,7 @@
 <img src="https://komarev.com/ghpvc/?username=topurayhan007&&style=flat-square" align="center" />
 </div> 
 
+<hr>
 
 ## Connect with me  
 <div align="center">
