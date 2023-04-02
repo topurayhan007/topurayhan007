@@ -65,7 +65,11 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=topurayhan007&&style=flat-square" align="center" />
 </div> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topurayhan007&show_icons=true&locale=en&layout=compact" alt="topurayhan007" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topurayhan007&show_icons=true&locale=en" alt="topurayhan007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topurayhan007&" alt="topurayhan007" /></p>
 
 <hr>
 
