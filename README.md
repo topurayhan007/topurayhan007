@@ -63,7 +63,7 @@
 <img src="https://komarev.com/ghpvc/?username=topurayhan007&&style=flat-square" align="center" />
 </div> 
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=topurayhan007)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=topurayhan007)](https://git.io/streak-stats)
 <hr>
 
 ## Connect with me  
