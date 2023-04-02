@@ -58,6 +58,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topurayhan007&hide_border=true&layout=compact" align="center" /></div>  
 <br>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=topurayhan007"/>
+</div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=topurayhan007)](https://git.io/streak-stats)
 
 <div align="center">
