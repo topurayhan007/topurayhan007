@@ -29,6 +29,7 @@
 
 
 ##📊 GitHub Stats:
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=topurayhan007&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=topurayhan007&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
@@ -47,9 +48,10 @@
 ---
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=topurayhan007&&style=flat-square" align="center" />
+  Created with GPRM ( https://gprm.itsvg.in )  
 </div> 
 
-Created with GPRM ( https://gprm.itsvg.in )  
+
   
 
 <!-- - 🌱 I’m currently learning MERN from Programming Hero by Jhankar Mahmud.  
