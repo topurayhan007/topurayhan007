@@ -45,6 +45,9 @@
 </div>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=topurayhan007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=topurayhan007&&style=flat-square" align="center" /> </br><br/>
