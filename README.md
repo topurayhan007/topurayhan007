@@ -7,7 +7,7 @@
   
 ## 💫 About Me:
 ### <div align="center">I'm Topu Rayhan, a full-stack web developer 👨‍💻 with Android app development experience.</div> 
-- 🌱 I’m currently learning MERN from Programming Hero by Jhankar Mahmud.
+- 🌱 I’m currently learning NextJS and TypeScript.
 - ❓ Ask me about anything related to computers, keyboards, and animes.
 - ⚡ Fun fact: I use "double quotes" in JS 😅
 
