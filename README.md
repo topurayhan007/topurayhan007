@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I use "double quotes" in JS 😅
 
 
-## 🌐 Portfolio: ****[Visit here!](https://topu-rayhan.netlify.app/)
+## 🌐 Portfolio: [Visit here!](https://topu-rayhan.netlify.app/)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/topurayhan007)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/topurayhan007#7574) 
