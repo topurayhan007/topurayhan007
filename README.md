@@ -6,8 +6,8 @@
  
   
 ## 💫 About Me:
-### <div align="center">I'm Topu Rayhan, a full-stack web developer 👨‍💻 with Android app development experience.</div> 
-- 🌱 I’m currently learning NextJS and TypeScript.
+### <div align="center">I'm Topu Rayhan, a Software Engineer.</div> 
+- 🌱 I’m currently learning software design principles, patterns and architecture.
 - ❓ Ask me about anything related to computers, keyboards, and animes.
 - ⚡ Fun fact: I use "double quotes" in JS 😅
 
